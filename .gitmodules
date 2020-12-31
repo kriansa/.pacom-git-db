@@ -7,3 +7,6 @@
 [submodule "fava"]
 	path = fava
 	url = https://aur.archlinux.org/fava.git
+[submodule "ttf-comic-neue"]
+	path = ttf-comic-neue
+	url = https://aur.archlinux.org/ttf-comic-neue.git
