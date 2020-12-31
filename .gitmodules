@@ -1,3 +1,6 @@
 [submodule "beancount"]
 	path = beancount
 	url = https://aur.archlinux.org/beancount.git
+[submodule "yed"]
+	path = yed
+	url = https://aur.archlinux.org/yed.git
