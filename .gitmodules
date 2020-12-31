@@ -4,3 +4,6 @@
 [submodule "yed"]
 	path = yed
 	url = https://aur.archlinux.org/yed.git
+[submodule "fava"]
+	path = fava
+	url = https://aur.archlinux.org/fava.git
