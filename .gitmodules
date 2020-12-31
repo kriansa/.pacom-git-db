@@ -10,3 +10,6 @@
 [submodule "ttf-comic-neue"]
 	path = ttf-comic-neue
 	url = https://aur.archlinux.org/ttf-comic-neue.git
+[submodule "ttf-gelasio-ib"]
+	path = ttf-gelasio-ib
+	url = https://aur.archlinux.org/ttf-gelasio-ib.git
