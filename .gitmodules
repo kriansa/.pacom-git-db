@@ -16,3 +16,6 @@
 [submodule "ttf-iosevka-term"]
 	path = ttf-iosevka-term
 	url = https://aur.archlinux.org/ttf-iosevka-term.git
+[submodule "ttf-symbola"]
+	path = ttf-symbola
+	url = https://aur.archlinux.org/ttf-symbola.git
