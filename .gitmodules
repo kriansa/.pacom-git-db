@@ -19,3 +19,6 @@
 [submodule "ttf-symbola"]
 	path = ttf-symbola
 	url = https://aur.archlinux.org/ttf-symbola.git
+[submodule "aurutils"]
+	path = aurutils
+	url = https://aur.archlinux.org/aurutils.git
