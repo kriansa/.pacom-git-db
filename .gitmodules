@@ -58,3 +58,6 @@
 [submodule "ansible-bundler"]
 	path = ansible-bundler
 	url = https://github.com/kriansa/pkgbuilds.git
+[submodule "devops-tools-git"]
+	path = devops-tools-git
+	url = https://github.com/kriansa/PKGBUILDs.git
