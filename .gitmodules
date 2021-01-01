@@ -34,3 +34,6 @@
 [submodule "nautilus-dropbox"]
 	path = nautilus-dropbox
 	url = https://aur.archlinux.org/nautilus-dropbox.git
+[submodule "nodenv"]
+	path = nodenv
+	url = https://aur.archlinux.org/nodenv.git
