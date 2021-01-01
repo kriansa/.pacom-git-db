@@ -25,3 +25,6 @@
 [submodule "ttf-symbola"]
 	path = ttf-symbola
 	url = https://aur.archlinux.org/font-symbola.git
+[submodule "dropbox"]
+	path = dropbox
+	url = https://aur.archlinux.org/dropbox.git
