@@ -61,3 +61,6 @@
 [submodule "devops-tools-git"]
 	path = devops-tools-git
 	url = https://github.com/kriansa/PKGBUILDs.git
+[submodule "ttf-nerd-glyphs"]
+	path = ttf-nerd-glyphs
+	url = https://github.com/kriansa/PKGBUILDs.git
