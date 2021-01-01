@@ -16,9 +16,6 @@
 [submodule "ttf-iosevka-term"]
 	path = ttf-iosevka-term
 	url = https://aur.archlinux.org/ttf-iosevka-term.git
-[submodule "aurutils"]
-	path = aurutils
-	url = https://aur.archlinux.org/aurutils.git
 [submodule "stress-ng"]
 	path = stress-ng
 	url = https://aur.archlinux.org/stress-ng.git
