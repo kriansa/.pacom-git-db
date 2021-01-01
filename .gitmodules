@@ -52,3 +52,6 @@
 [submodule "slack-desktop"]
 	path = slack-desktop
 	url = https://aur.archlinux.org/slack-desktop.git
+[submodule "spotify"]
+	path = spotify
+	url = https://aur.archlinux.org/spotify.git
