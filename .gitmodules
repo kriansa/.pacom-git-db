@@ -31,3 +31,6 @@
 [submodule "heroku-cli"]
 	path = heroku-cli
 	url = https://aur.archlinux.org/heroku-cli.git
+[submodule "nautilus-dropbox"]
+	path = nautilus-dropbox
+	url = https://aur.archlinux.org/nautilus-dropbox.git
