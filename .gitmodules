@@ -55,3 +55,6 @@
 [submodule "zoom"]
 	path = zoom
 	url = https://aur.archlinux.org/zoom.git
+[submodule "ansible-bundler"]
+	path = ansible-bundler
+	url = https://github.com/kriansa/pkgbuilds.git
