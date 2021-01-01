@@ -67,3 +67,6 @@
 [submodule "ansible-bundler"]
 	path = ansible-bundler
 	url = https://aur.archlinux.org/ansible-bundler.git
+[submodule "pacom"]
+	path = pacom
+	url = https://aur.archlinux.org/pacom.git
