@@ -28,3 +28,6 @@
 [submodule "dropbox"]
 	path = dropbox
 	url = https://aur.archlinux.org/dropbox.git
+[submodule "heroku-cli"]
+	path = heroku-cli
+	url = https://aur.archlinux.org/heroku-cli.git
