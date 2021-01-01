@@ -40,3 +40,6 @@
 [submodule "nodenv-node-build-git"]
 	path = nodenv-node-build-git
 	url = https://aur.archlinux.org/nodenv-node-build-git.git
+[submodule "python-magic-ahupp"]
+	path = python-magic-ahupp
+	url = https://aur.archlinux.org/python-magic-ahupp.git
