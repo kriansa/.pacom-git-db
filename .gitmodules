@@ -73,3 +73,6 @@
 [submodule "emacs-git"]
 	path = emacs-git
 	url = https://aur.archlinux.org/emacs-git.git
+[submodule "gnome-shell-extension-system-monitor-git"]
+	path = gnome-shell-extension-system-monitor-git
+	url = https://aur.archlinux.org/gnome-shell-extension-system-monitor-git.git
