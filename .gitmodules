@@ -55,3 +55,6 @@
 [submodule "spotify"]
 	path = spotify
 	url = https://aur.archlinux.org/spotify.git
+[submodule "zoom"]
+	path = zoom
+	url = https://aur.archlinux.org/zoom.git
