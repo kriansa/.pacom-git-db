@@ -22,3 +22,6 @@
 [submodule "stress-ng"]
 	path = stress-ng
 	url = https://aur.archlinux.org/stress-ng.git
+[submodule "ttf-symbola"]
+	path = ttf-symbola
+	url = https://aur.archlinux.org/font-symbola.git
