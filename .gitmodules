@@ -79,3 +79,6 @@
 [submodule "ananicy-git"]
 	path = ananicy-git
 	url = https://aur.archlinux.org/ananicy-git.git
+[submodule "mos-latest"]
+	path = mos-latest
+	url = https://github.com/mongoose-os/mos.git
