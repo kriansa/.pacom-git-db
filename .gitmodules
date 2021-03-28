@@ -88,3 +88,6 @@
 [submodule "cni-plugin-dnsname"]
 	path = cni-plugin-dnsname
 	url = https://aur.archlinux.org/cni-plugin-dnsname.git
+[submodule "python-poetry-git"]
+	path = python-poetry-git
+	url = https://aur.archlinux.org/python-poetry-git.git
