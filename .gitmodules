@@ -91,3 +91,6 @@
 [submodule "python-poetry-git"]
 	path = python-poetry-git
 	url = https://aur.archlinux.org/python-poetry-git.git
+[submodule "python-poetry-core-git"]
+	path = python-poetry-core-git
+	url = https://aur.archlinux.org/python-poetry-core-git.git
