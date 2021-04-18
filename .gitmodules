@@ -100,3 +100,6 @@
 [submodule "git-secret"]
 	path = git-secret
 	url = https://aur.archlinux.org/git-secret.git
+[submodule "postman-bin"]
+	path = postman-bin
+	url = https://aur.archlinux.org/postman-bin.git
