@@ -100,3 +100,6 @@
 [submodule "postman-bin"]
 	path = postman-bin
 	url = https://aur.archlinux.org/postman-bin.git
+[submodule "intel-ipsec-mb"]
+	path = intel-ipsec-mb
+	url = https://aur.archlinux.org/intel-ipsec-mb.git
