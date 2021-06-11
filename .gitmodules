@@ -103,3 +103,6 @@
 [submodule "intel-ipsec-mb"]
 	path = intel-ipsec-mb
 	url = https://aur.archlinux.org/intel-ipsec-mb.git
+[submodule "ddccontrol"]
+	path = ddccontrol
+	url = https://aur.archlinux.org/ddccontrol.git
