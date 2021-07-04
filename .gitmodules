@@ -109,3 +109,6 @@
 [submodule "ddccontrol-db-git"]
 	path = ddccontrol-db-git
 	url = https://aur.archlinux.org/ddccontrol-db-git.git
+[submodule "wrk"]
+	path = wrk
+	url = https://aur.archlinux.org/wrk.git
