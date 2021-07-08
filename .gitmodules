@@ -112,3 +112,6 @@
 [submodule "wrk"]
 	path = wrk
 	url = https://aur.archlinux.org/wrk.git
+[submodule "wtfutil"]
+	path = wtfutil
+	url = https://aur.archlinux.org/wtfutil.git
