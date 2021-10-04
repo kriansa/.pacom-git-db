@@ -118,6 +118,3 @@
 [submodule "spot-client"]
 	path = spot-client
 	url = https://aur.archlinux.org/spot-client.git
-[submodule "ncspot"]
-	path = ncspot
-	url = https://aur.archlinux.org/ncspot.git
