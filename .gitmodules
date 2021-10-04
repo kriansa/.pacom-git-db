@@ -115,6 +115,3 @@
 [submodule "wtfutil"]
 	path = wtfutil
 	url = https://aur.archlinux.org/wtfutil.git
-[submodule "spot-client"]
-	path = spot-client
-	url = https://aur.archlinux.org/spot-client.git
