@@ -115,3 +115,6 @@
 [submodule "wtfutil"]
 	path = wtfutil
 	url = https://aur.archlinux.org/wtfutil.git
+[submodule "geforcenow-electron"]
+	path = geforcenow-electron
+	url = https://aur.archlinux.org/geforcenow-electron.git
