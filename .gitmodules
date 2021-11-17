@@ -79,9 +79,6 @@
 [submodule "mos"]
 	path = mos
 	url = https://github.com/mongoose-os/mos.git
-[submodule "nomad"]
-	path = nomad
-	url = https://aur.archlinux.org/nomad.git
 [submodule "cni-plugin-dnsname"]
 	path = cni-plugin-dnsname
 	url = https://aur.archlinux.org/cni-plugin-dnsname.git
