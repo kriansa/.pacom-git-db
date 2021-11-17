@@ -88,9 +88,6 @@
 [submodule "python-poetry-core-git"]
 	path = python-poetry-core-git
 	url = https://aur.archlinux.org/python-poetry-core-git.git
-[submodule "python-cleo-git"]
-	path = python-cleo-git
-	url = https://aur.archlinux.org/python-cleo-git.git
 [submodule "git-secret"]
 	path = git-secret
 	url = https://aur.archlinux.org/git-secret.git
