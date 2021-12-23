@@ -103,3 +103,6 @@
 [submodule "gnome-shell-extension-appindicator-git"]
 	path = gnome-shell-extension-appindicator-git
 	url = https://aur.archlinux.org/gnome-shell-extension-appindicator-git.git
+[submodule "lastpass-cli-git"]
+	path = lastpass-cli-git
+	url = https://aur.archlinux.org/lastpass-cli-git.git
