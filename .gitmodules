@@ -100,6 +100,3 @@
 [submodule "nvidia-fake-powerd"]
 	path = nvidia-fake-powerd
 	url = https://aur.archlinux.org/nvidia-fake-powerd.git
-[submodule "gnome-shell-extension-appindicator-git"]
-	path = gnome-shell-extension-appindicator-git
-	url = https://aur.archlinux.org/gnome-shell-extension-appindicator-git.git
