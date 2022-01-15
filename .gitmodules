@@ -103,3 +103,6 @@
 [submodule "overdue"]
 	path = overdue
 	url = https://aur.archlinux.org/overdue.git
+[submodule "concourse-fly"]
+	path = concourse-fly
+	url = https://aur.archlinux.org/concourse-fly.git
