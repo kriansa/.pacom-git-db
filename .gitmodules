@@ -97,9 +97,6 @@
 [submodule "ddccontrol-db-git"]
 	path = ddccontrol-db-git
 	url = https://aur.archlinux.org/ddccontrol-db-git.git
-[submodule "nvidia-fake-powerd"]
-	path = nvidia-fake-powerd
-	url = https://aur.archlinux.org/nvidia-fake-powerd.git
 [submodule "overdue"]
 	path = overdue
 	url = https://aur.archlinux.org/overdue.git
