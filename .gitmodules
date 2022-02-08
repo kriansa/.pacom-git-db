@@ -106,6 +106,3 @@
 [submodule "psi-notify"]
 	path = psi-notify
 	url = https://aur.archlinux.org/psi-notify.git
-[submodule "teamviewer"]
-	path = teamviewer
-	url = https://aur.archlinux.org/teamviewer.git
