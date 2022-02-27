@@ -106,3 +106,6 @@
 [submodule "psi-notify"]
 	path = psi-notify
 	url = https://aur.archlinux.org/psi-notify.git
+[submodule "deltachat-desktop-git"]
+	path = deltachat-desktop-git
+	url = https://aur.archlinux.org/deltachat-desktop-git.git
