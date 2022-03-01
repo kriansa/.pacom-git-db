@@ -109,3 +109,6 @@
 [submodule "deltachat-desktop-git"]
 	path = deltachat-desktop-git
 	url = https://aur.archlinux.org/deltachat-desktop-git.git
+[submodule "asdf-vm"]
+	path = asdf-vm
+	url = https://aur.archlinux.org/asdf-vm.git
