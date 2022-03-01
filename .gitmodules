@@ -109,6 +109,3 @@
 [submodule "deltachat-desktop-git"]
 	path = deltachat-desktop-git
 	url = https://aur.archlinux.org/deltachat-desktop-git.git
-[submodule "browsh"]
-	path = browsh
-	url = https://aur.archlinux.org/browsh.git
