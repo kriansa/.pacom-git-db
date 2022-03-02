@@ -34,9 +34,6 @@
 [submodule "python-magic-ahupp"]
 	path = python-magic-ahupp
 	url = https://aur.archlinux.org/python-magic-ahupp.git
-[submodule "rbenv"]
-	path = rbenv
-	url = https://aur.archlinux.org/rbenv.git
 [submodule "ruby-build-git"]
 	path = ruby-build-git
 	url = https://aur.archlinux.org/ruby-build-git.git
