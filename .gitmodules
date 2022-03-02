@@ -34,9 +34,6 @@
 [submodule "python-magic-ahupp"]
 	path = python-magic-ahupp
 	url = https://aur.archlinux.org/python-magic-ahupp.git
-[submodule "ruby-build-git"]
-	path = ruby-build-git
-	url = https://aur.archlinux.org/ruby-build-git.git
 [submodule "slack-desktop"]
 	path = slack-desktop
 	url = https://aur.archlinux.org/slack-desktop.git
