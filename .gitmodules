@@ -97,6 +97,3 @@
 [submodule "asdf-vm"]
 	path = asdf-vm
 	url = https://aur.archlinux.org/asdf-vm.git
-[submodule "guestfs-tools"]
-	path = guestfs-tools
-	url = https://github.com/kriansa/PKGBUILDs.git
