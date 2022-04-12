@@ -97,3 +97,6 @@
 [submodule "asdf-vm"]
 	path = asdf-vm
 	url = https://aur.archlinux.org/asdf-vm.git
+[submodule "lens-bin"]
+	path = lens-bin
+	url = https://aur.archlinux.org/lens-bin.git
