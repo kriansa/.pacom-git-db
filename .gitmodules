@@ -100,9 +100,6 @@
 [submodule "lens-bin"]
 	path = lens-bin
 	url = https://aur.archlinux.org/lens-bin.git
-[submodule "gnome-shell-extension-useless-gaps-git"]
-	path = gnome-shell-extension-useless-gaps-git
-	url = https://aur.archlinux.org/gnome-shell-extension-useless-gaps-git.git
 [submodule "gnome-shell-extension-impatience"]
 	path = gnome-shell-extension-impatience
 	url = https://aur.archlinux.org/gnome-shell-extension-impatience.git
