@@ -106,3 +106,6 @@
 [submodule "ulauncher"]
 	path = ulauncher
 	url = https://aur.archlinux.org/ulauncher.git
+[submodule "astah-community"]
+	path = astah-community
+	url = https://aur.archlinux.org/astah-community.git
