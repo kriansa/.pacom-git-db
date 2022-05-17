@@ -49,9 +49,6 @@
 [submodule "ttf-nerd-glyphs"]
 	path = ttf-nerd-glyphs
 	url = https://github.com/kriansa/PKGBUILDs.git
-[submodule "gnome-shell-extension-remove-accessibility"]
-	path = gnome-shell-extension-remove-accessibility
-	url = https://github.com/kriansa/PKGBUILDs.git
 [submodule "ansible-bundler"]
 	path = ansible-bundler
 	url = https://aur.archlinux.org/ansible-bundler.git
