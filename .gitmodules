@@ -112,6 +112,3 @@
 [submodule "soapui"]
 	path = soapui
 	url = https://aur.archlinux.org/soapui.git
-[submodule "onvifviewer"]
-	path = onvifviewer
-	url = https://aur.archlinux.org/onvifviewer.git
