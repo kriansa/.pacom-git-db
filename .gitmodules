@@ -64,9 +64,6 @@
 [submodule "mos"]
 	path = mos
 	url = https://github.com/mongoose-os/mos.git
-[submodule "cni-plugin-dnsname"]
-	path = cni-plugin-dnsname
-	url = https://aur.archlinux.org/cni-plugin-dnsname.git
 [submodule "git-secret"]
 	path = git-secret
 	url = https://aur.archlinux.org/git-secret.git
