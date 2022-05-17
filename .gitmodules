@@ -103,6 +103,3 @@
 [submodule "gnome-shell-extension-impatience"]
 	path = gnome-shell-extension-impatience
 	url = https://aur.archlinux.org/gnome-shell-extension-impatience.git
-[submodule "ulauncher"]
-	path = ulauncher
-	url = https://aur.archlinux.org/ulauncher.git
