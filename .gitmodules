@@ -109,6 +109,3 @@
 [submodule "astah-community"]
 	path = astah-community
 	url = https://aur.archlinux.org/astah-community.git
-[submodule "soapui"]
-	path = soapui
-	url = https://aur.archlinux.org/soapui.git
