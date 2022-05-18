@@ -97,3 +97,6 @@
 [submodule "gnome-shell-extension-impatience"]
 	path = gnome-shell-extension-impatience
 	url = https://aur.archlinux.org/gnome-shell-extension-impatience.git
+[submodule "glmark2"]
+	path = glmark2
+	url = https://aur.archlinux.org/glmark2.git
