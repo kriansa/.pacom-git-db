@@ -103,3 +103,6 @@
 [submodule "gfxbench"]
 	path = gfxbench
 	url = https://aur.archlinux.org/gfxbench.git
+[submodule "phoronix-test-suite"]
+	path = phoronix-test-suite
+	url = https://aur.archlinux.org/phoronix-test-suite.git
