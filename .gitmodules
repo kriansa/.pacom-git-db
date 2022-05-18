@@ -100,3 +100,6 @@
 [submodule "blender-benchmark"]
 	path = blender-benchmark
 	url = https://aur.archlinux.org/blender-benchmark.git
+[submodule "gfxbench"]
+	path = gfxbench
+	url = https://aur.archlinux.org/gfxbench.git
