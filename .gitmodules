@@ -103,3 +103,6 @@
 [submodule "phoronix-test-suite"]
 	path = phoronix-test-suite
 	url = https://aur.archlinux.org/phoronix-test-suite.git
+[submodule "corectrl"]
+	path = corectrl
+	url = https://aur.archlinux.org/corectrl.git
