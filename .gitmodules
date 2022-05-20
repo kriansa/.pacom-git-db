@@ -97,6 +97,3 @@
 [submodule "gnome-shell-extension-impatience"]
 	path = gnome-shell-extension-impatience
 	url = https://aur.archlinux.org/gnome-shell-extension-impatience.git
-[submodule "blender-benchmark"]
-	path = blender-benchmark
-	url = https://aur.archlinux.org/blender-benchmark.git
