@@ -100,6 +100,3 @@
 [submodule "blender-benchmark"]
 	path = blender-benchmark
 	url = https://aur.archlinux.org/blender-benchmark.git
-[submodule "phoronix-test-suite"]
-	path = phoronix-test-suite
-	url = https://aur.archlinux.org/phoronix-test-suite.git
