@@ -97,3 +97,6 @@
 [submodule "woeusb"]
 	path = woeusb
 	url = https://aur.archlinux.org/woeusb.git
+[submodule "concourse-fly-cli"]
+	path = concourse-fly-cli
+	url = https://aur.archlinux.org/concourse.git
