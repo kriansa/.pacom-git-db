@@ -94,3 +94,6 @@
 [submodule "ttf-gelasio"]
 	path = ttf-gelasio
 	url = https://github.com/kriansa/PKGBUILDs.git
+[submodule "fly-cli"]
+	path = fly-cli
+	url = https://aur.archlinux.org/fly-cli.git
