@@ -97,3 +97,6 @@
 [submodule "concourse-fly-cli"]
 	path = concourse-fly-cli
 	url = https://aur.archlinux.org/concourse.git
+[submodule "ttf-gelasio"]
+	path = ttf-gelasio
+	url = https://github.com/kriansa/PKGBUILDs.git
