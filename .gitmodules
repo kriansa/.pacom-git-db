@@ -97,3 +97,6 @@
 [submodule "fly-cli"]
 	path = fly-cli
 	url = https://aur.archlinux.org/fly-cli.git
+[submodule "syncthing-gtk-python3"]
+	path = syncthing-gtk-python3
+	url = https://aur.archlinux.org/syncthing-gtk-python3.git
