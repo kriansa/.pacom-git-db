@@ -100,3 +100,6 @@
 [submodule "pmbw"]
 	path = pmbw
 	url = https://aur.archlinux.org/pmbw.git
+[submodule "syncthing-gtk-python3"]
+	path = syncthing-gtk-python3
+	url = https://aur.archlinux.org/syncthing-gtk-python3.git
