@@ -19,9 +19,6 @@
 [submodule "ttf-symbola"]
 	path = ttf-symbola
 	url = https://aur.archlinux.org/font-symbola.git
-[submodule "nautilus-dropbox"]
-	path = nautilus-dropbox
-	url = https://aur.archlinux.org/nautilus-dropbox.git
 [submodule "python-magic-ahupp"]
 	path = python-magic-ahupp
 	url = https://aur.archlinux.org/python-magic-ahupp.git
