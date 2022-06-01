@@ -100,3 +100,6 @@
 [submodule "pmbw"]
 	path = pmbw
 	url = https://aur.archlinux.org/pmbw.git
+[submodule "gnome-shell-extension-extensions-sync-git"]
+	path = gnome-shell-extension-extensions-sync-git
+	url = https://aur.archlinux.org/gnome-shell-extension-extensions-sync-git.git
