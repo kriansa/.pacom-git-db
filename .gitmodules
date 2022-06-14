@@ -100,3 +100,6 @@
 [submodule "gnome-shell-extension-appindicator-git"]
 	path = gnome-shell-extension-appindicator-git
 	url = https://aur.archlinux.org/gnome-shell-extension-appindicator-git.git
+[submodule "xkb-switch"]
+	path = xkb-switch
+	url = https://aur.archlinux.org/xkb-switch.git
