@@ -103,3 +103,6 @@
 [submodule "xkb-switch"]
 	path = xkb-switch
 	url = https://aur.archlinux.org/xkb-switch.git
+[submodule "inputplug"]
+	path = inputplug
+	url = https://aur.archlinux.org/inputplug.git
