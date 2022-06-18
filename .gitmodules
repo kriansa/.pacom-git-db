@@ -106,3 +106,6 @@
 [submodule "inputplug"]
 	path = inputplug
 	url = https://aur.archlinux.org/inputplug.git
+[submodule "ddcci-driver-linux-dkms"]
+	path = ddcci-driver-linux-dkms
+	url = https://aur.archlinux.org/ddcci-driver-linux-dkms.git
