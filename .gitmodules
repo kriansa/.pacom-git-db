@@ -106,3 +106,6 @@
 [submodule "inputplug"]
 	path = inputplug
 	url = https://aur.archlinux.org/inputplug.git
+[submodule "python-smbus2"]
+	path = python-smbus2
+	url = https://aur.archlinux.org/python-smbus2.git
