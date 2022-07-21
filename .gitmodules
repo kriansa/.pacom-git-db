@@ -106,3 +106,6 @@
 [submodule "inputplug"]
 	path = inputplug
 	url = https://aur.archlinux.org/inputplug.git
+[submodule "heroku-cli"]
+	path = heroku-cli
+	url = https://aur.archlinux.org/heroku-cli.git
