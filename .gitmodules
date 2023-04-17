@@ -112,3 +112,6 @@
 [submodule "passmark-performancetest-bin"]
 	path = passmark-performancetest-bin
 	url = https://aur.archlinux.org/passmark-performancetest-bin.git
+[submodule "geekbench"]
+	path = geekbench
+	url = https://aur.archlinux.org/geekbench.git
